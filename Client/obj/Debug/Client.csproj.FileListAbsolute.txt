@@ -1,0 +1,11 @@
+C:\SoftwareDev\CPP\ChatProject\Client\bin\Debug\Client.exe.config
+C:\SoftwareDev\CPP\ChatProject\Client\bin\Debug\Client.exe
+C:\SoftwareDev\CPP\ChatProject\Client\bin\Debug\Client.pdb
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.Form1.resources
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.Properties.Resources.resources
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.exe
+C:\SoftwareDev\CPP\ChatProject\Client\obj\Debug\Client.pdb
